@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+# This script performs a Fast Fourier Transform (FFT) on a given dataset
 # Paste your CCW data here — or load from a file, if preferred.
 ccw_data = np.array([
     -23.415639, -7.454267, 14.428332, 37.165485, 55.964923, 67.79045, 72.133498, 70.826046, 67.024523,
