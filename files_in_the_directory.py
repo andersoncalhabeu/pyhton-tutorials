@@ -4,7 +4,7 @@ def list_files_in_directory(directory):
     try:
         files = os.listdir(directory)
         return files
-    except Exception as e:
+    except Exception as e: # Handle any exceptions that occur
         print(f"An error occurred: {e}")
         return []
     
