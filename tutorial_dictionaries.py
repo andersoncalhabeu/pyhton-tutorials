@@ -2,7 +2,7 @@
 
 # 1. Creating Dictionaries
 # You can create a dictionary with curly braces or the dict() function
-person = {"name": "Alice", "age": 30, "city": "New York"}
+person = {"name": "Alice", "age": 17, "city": "Ribeirão"}
 print("Person dictionary:", person)
 
 # 2. Accessing Values
@@ -57,3 +57,4 @@ print("Dictionary comprehension (squares):", squared)
 
 # End of tutorial!
 print("End of dictionary tutorial.")
+
