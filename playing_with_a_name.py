@@ -1,7 +1,7 @@
-nome= "Dayane"
-mensagem= f"""Seja bem vinda, {nome}!. Você é a Miss Python."""
+name= "Dayane"
+mensagem= f"""Welcome, {nome}!. You are Miss Python."""
 print(mensagem)
-print("Name:", nome)
+print("Name:", name)
 for i in nome:
     print(f"Iteration {i}: {i}") # Iterating through each character in the string
 
